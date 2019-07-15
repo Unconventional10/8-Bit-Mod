@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "b",
+        "b",
+        "c"
+    ],
+    "key": {
+        "b": {
+            "item": "minecraft:bedrock"
+        },
+        "c": {
+            "item": "minecraft:bone"
+        }
+    },
+    "result": {
+        "item": "8bit:eventide",
+        "count": 1
+    },
+    "group": "8bit"
+}

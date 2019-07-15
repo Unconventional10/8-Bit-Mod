@@ -1,0 +1,9 @@
+Manifest-Version: 0.1-pre1
+Implementation-Title: Forge-Mods
+Implementation-Version: 1.1
+Specification-Vendor: 8bit
+Specification-Title: 8-Bit Mod
+Implementation-Timestamp: 2019-7-11
+Specification-Version: 1
+Implementation-Vendor: 8bit
+
