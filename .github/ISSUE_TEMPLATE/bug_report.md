@@ -29,9 +29,9 @@ If applicable, add screenshots to help explain your problem.
  - Version [e.g. 22]
 
 **Forge & Other Mods (please complete the following information):**
--Forge Version
--Full list of mods (with version numbers for these as well)
--Mods (if applicable) that may be causing the problem
+- Forge Version
+- Full list of mods (with version numbers for these as well)
+- Mods (if applicable) that may be causing the problem
 
 **Additional context**
 Add any other context about the problem here.
